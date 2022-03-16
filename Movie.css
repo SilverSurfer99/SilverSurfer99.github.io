@@ -1,0 +1,31 @@
+h1{
+    margin-left:50px;
+    margin-right:50px;
+    text-align:center;
+    font-size: 55px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+h2{
+    text-align:center;
+    font-size:45px;
+    margin-left:10px;
+}
+#images{
+    height: 600px;
+    width:auto;
+    align-self:center;
+}
+#images0{
+    width: 500px;
+    height:auto;
+}
+div{
+    text-align:center;
+}
+p{
+    font-size: 35px;
+    color:black;
+    margin-left:20px;
+    margin-right:20px;
+}
